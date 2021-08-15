@@ -11,5 +11,22 @@
 }
 
 #ngProgress {
-    background-color: #3271D2;
+    background-color: #3271D2 !important;
+}
+
+.badge {
+    border-radius: 6px;
+    padding: 4px 6px;
+}
+
+a {
+    color: #078afb;
+}
+
+.txvalues {
+    font-weight: bold;
+}
+
+.txvalues-primary {
+    background: linear-gradient(135deg,#ffbf00,#ff6c00) 50%;
 }
