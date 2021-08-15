@@ -9,3 +9,7 @@
 .insight {
     font-style: normal;
 }
+
+#ngProgress {
+    background-color: #3271D2;
+}
